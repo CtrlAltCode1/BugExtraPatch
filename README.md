@@ -5,3 +5,5 @@ This plugin is meticulously designed to identify and eliminate a wide range of b
 This plugin prevents the spawning of multiple dragon eggs, fixes performance errors that might lead to server crashes when mods are installed,
 checks for and removes ghost blocks, implements general performance enhancements, and addresses issues with mob AI breaking.
 (All changes will not affect gameplay)
+
+![EDITEDmaxresdefault (1)](https://github.com/CtrlAltCode1/BugExtraPatch/assets/142231936/49dda6b8-f933-46e9-99bb-5e5f5d238e22)
