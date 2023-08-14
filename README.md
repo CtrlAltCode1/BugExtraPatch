@@ -8,4 +8,4 @@ checks for and removes ghost blocks, implements general performance enhancements
 
 ![EDITEDmaxresdefault (1)](https://github.com/CtrlAltCode1/BugExtraPatch/assets/142231936/49dda6b8-f933-46e9-99bb-5e5f5d238e22)
 # Notes
-Sorry everyone about haveing to move the github page I was having issues with uploading.
+Sorry everyone about having to move the github page I was having issues with uploading.
